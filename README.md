@@ -1,7 +1,7 @@
 # Project Portfolio
 A personal portfolio page to display my latest projects from completed Certification of FreeCodeCamp Responsive Web Design course.
 
-Certification of 300hrs of [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/sleepysteve1121/responsive-web-d) course completed.
+Certification of 300hrs of [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/sleepysteve1121/responsive-web-design) course completed.
 
 <img src="./img/steven_responsive_web_design_certification.png" width="450px">
 
