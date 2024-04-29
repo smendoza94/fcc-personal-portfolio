@@ -1,0 +1,25 @@
+:root {
+    --main-white: #FAFAFF;
+    --main-red: #FFC953;
+    --main-blue: #517664;
+    --main-gray: #040F0F;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lucida Sans Unicode', monospace, serif;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 1.4;
+    color: var(--main-white);
+}
