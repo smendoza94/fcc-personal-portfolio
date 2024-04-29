@@ -226,3 +226,37 @@ footer {
 footer p {
     margin: 2rem;
 }
+
+/* MOBILE RESPONSIVE MEDIA QUERIES */
+@media (max-width: 28.75rem) {
+    .nav {
+        justify-content: center;
+    }
+
+    .nav-list {
+        margin: 0 1rem;
+    }
+
+    .projects-section-header {
+        font-size: 4rem;
+    }
+
+    .contact-section-header h2 {
+        font-size: 4rem;
+    }
+
+    footer {
+        flex-direction:  column;
+        text-align: center;
+    }
+}
+
+@media (max-width: 30.625em) {
+    .projects-section {
+        padding: 6rem 1rem;
+    }
+
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+}
